@@ -1,1 +1,4 @@
 Vou criar uma branch e fazer merge de arquivos com o objetivo de revisar esses procedimentos.
+
+Atualização:
+Consegui adicionar as modificações na pasta apenas a segunda branch chamada "branch-secundaria"
